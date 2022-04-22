@@ -1,0 +1,17 @@
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\obj\Debug\net6.0-windows\Student ManagementApp.csproj.AssemblyReference.cache
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\obj\Debug\net6.0-windows\Student_ManagementApp.Form1.resources
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\obj\Debug\net6.0-windows\Student ManagementApp.csproj.GenerateResource.cache
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\obj\Debug\net6.0-windows\Student ManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\obj\Debug\net6.0-windows\Student ManagementApp.AssemblyInfoInputs.cache
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\obj\Debug\net6.0-windows\Student ManagementApp.AssemblyInfo.cs
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\obj\Debug\net6.0-windows\Student ManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\bin\Debug\net6.0-windows\Student ManagementApp.exe
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\bin\Debug\net6.0-windows\Student ManagementApp.deps.json
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\bin\Debug\net6.0-windows\Student ManagementApp.runtimeconfig.json
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\bin\Debug\net6.0-windows\Student ManagementApp.dll
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\bin\Debug\net6.0-windows\Student ManagementApp.pdb
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\obj\Debug\net6.0-windows\Student ManagementApp.dll
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\obj\Debug\net6.0-windows\refint\Student ManagementApp.dll
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\obj\Debug\net6.0-windows\Student ManagementApp.pdb
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\obj\Debug\net6.0-windows\Student ManagementApp.genruntimeconfig.cache
+C:\Users\Admins\source\repos\Student ManagementApp\Student ManagementApp\Student ManagementApp\obj\Debug\net6.0-windows\ref\Student ManagementApp.dll
